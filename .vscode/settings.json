@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "debug.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

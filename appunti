@@ -1,0 +1,13 @@
+loooooolllll
+gioia olio di semi di soia!!!
+
+Table (matrice di struct in memoria condivisa):
+    struct{
+        smh signal
+        char flag
+    } typedef cella;
+char flag:
+- 0:    posizione libera
+- 1/9:  bandiera
+- char  giocatore che sta occupando la pedina
+
